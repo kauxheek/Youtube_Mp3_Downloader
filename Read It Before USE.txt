@@ -1,0 +1,8 @@
+**Requirements:
+.python 3.2+ or 2.6/2.7
+..youtube-dl(install it by using pip install --upgrade youtube-dl
+
+How to run it:
+
+.Run the TestAudio.py
+..enter the file name within ' ' e.g. 'file name'
